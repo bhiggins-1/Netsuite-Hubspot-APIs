@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<types:mule xmlns:types="http://www.mulesoft.org/schema/mule/types">
+  <types:catalog>
+    <types:type name="netsuiteCustomer" format="json">
+      <types:shape format="weave" example="examples/netsuiteCustomer-4.json"><![CDATA[%dw 2.0
+
+type netsuiteCustomer = {|
+  isInactive: Boolean, 
+  companyName: String, 
+  internalId: String, 
+  email: String, 
+  customFieldList: {|
+    customField: Array<{|      BooleanCustomFieldRef__custentity_fmt_customer_credit_on_hold: Boolean,       LongCustomFieldRef__custentity_cust_priority: Number {"typeId": "int"},       BooleanCustomFieldRef__custentity_fmt_cust_credit_on_hold: Boolean,       BooleanCustomFieldRef__custentity_naw_trans_need_approval: Boolean,       BooleanCustomFieldRef__custentity_wmsse_asn_required: Boolean,       BooleanCustomFieldRef__custentity_2663_direct_debit: Boolean,       BooleanCustomFieldRef__custentity18: Boolean,       BooleanCustomFieldRef__custentity_2663_customer_refund: Boolean,       BooleanCustomFieldRef__custentity_credappreqd: Boolean,       BooleanCustomFieldRef__custentity_nsts_wodm_claim_ar_deduction: Boolean,       BooleanCustomFieldRef__custentity_nsts_wodm_exclude_customer: Boolean    |}>
+  |}, 
+  entityId: String, 
+  stage: String, 
+  entityStatus: {|
+    externalId: Null, 
+    "type": Null, 
+    internalId: String, 
+    name: String
+  |}, 
+  defaultAddress: String
+|} {"example": "{\\\"isInactive\\\":false,\\\"companyName\\\":\\\"MuleSoft\\\",\\\"internalId\\\":\\\"7887\\\",\\\"email\\\":\\\"bryan.higgins@mulesoft.com\\\",\\\"customFieldList\\\":{\\\"customField\\\":[{\\\"BooleanCustomFieldRef__custentity_fmt_customer_credit_on_hold\\\":false,\\\"LongCustomFieldRef__custentity_cust_priority\\\":50,\\\"BooleanCustomFieldRef__custentity_fmt_cust_credit_on_hold\\\":false,\\\"BooleanCustomFieldRef__custentity_naw_trans_need_approval\\\":false,\\\"BooleanCustomFieldRef__custentity_wmsse_asn_required\\\":false,\\\"BooleanCustomFieldRef__custentity_2663_direct_debit\\\":false,\\\"BooleanCustomFieldRef__custentity18\\\":false,\\\"BooleanCustomFieldRef__custentity_2663_customer_refund\\\":false,\\\"BooleanCustomFieldRef__custentity_credappreqd\\\":false,\\\"BooleanCustomFieldRef__custentity_nsts_wodm_claim_ar_deduction\\\":false,\\\"BooleanCustomFieldRef__custentity_nsts_wodm_exclude_customer\\\":false}]},\\\"entityId\\\":\\\"MuleSoft\\\",\\\"stage\\\":\\\"PROSPECT\\\",\\\"entityStatus\\\":{\\\"externalId\\\":null,\\\"type\\\":null,\\\"internalId\\\":\\\"13456\\\",\\\"name\\\":\\\"CUSTOMER-Closed Won\\\"},\\\"defaultAddress\\\":\\\"MuleSoft<br>415 Mission St<br>San Francisco CA 94105<br>United States\\\"}"}
+
+]]></types:shape>
+    </types:type>
+  </types:catalog>
+  <types:enrichment select="#f9fd0bd9-1359-42b6-9ddd-6b5e16bea651">
+    <types:processor-declaration>
+      <types:input-event>
+        <types:message>
+          <types:payload type="netsuiteCustomer"/>
+        </types:message>
+      </types:input-event>
+    </types:processor-declaration>
+  </types:enrichment>
+</types:mule>

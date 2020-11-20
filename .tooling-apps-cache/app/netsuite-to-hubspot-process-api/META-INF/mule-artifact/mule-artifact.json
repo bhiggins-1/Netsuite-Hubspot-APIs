@@ -1,0 +1,51 @@
+{
+  "configs": [
+    "hubspot-to-netsuite.xml",
+    "hubspotBusinessLogic.xml",
+    "businessLogic.xml",
+    "config.xml",
+    "endpoints.xml",
+    "errorHandling.xml"
+  ],
+  "secureProperties": [],
+  "redeploymentEnabled": true,
+  "name": "org.mule.templates:template-nets2sfdc-customer2account-broadcast:2.1.2",
+  "minMuleVersion": "4.1.4",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {
+      "exportedPackages": [],
+      "exportedResources": [
+        "hubspotBusinessLogic.xml",
+        "log4j2.xml",
+        "errorHandling.xml",
+        "common.properties",
+        "endpoints.xml",
+        "businessLogic.xml",
+        "application-types.xml",
+        "mule.prod.properties",
+        "config.xml",
+        "mule.dev.properties",
+        "examples/target.json",
+        "examples/hubspot_proeprties.json",
+        "examples/hubspot_get_recently_created_companies.json",
+        "examples/results.json",
+        "examples/netsuite.json",
+        "examples/hubspot-2.json",
+        "examples/hubspot.json",
+        "examples/hubspot-1.json",
+        "examples/timestamp-1.json",
+        "examples/hubspot_search.json",
+        "examples/timestamp.json",
+        "examples/netsuite_search_results.json",
+        "hubspot-to-netsuite.xml",
+        "mule.qa.properties"
+      ]
+    }
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}

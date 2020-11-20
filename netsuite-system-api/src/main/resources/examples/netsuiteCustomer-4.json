@@ -1,0 +1,33 @@
+
+{
+    "isInactive": false,
+    "companyName": "MuleSoft",
+    "internalId": "7887",
+    "email": "bryan.higgins@mulesoft.com",
+        "customFieldList": {
+            "customField": [
+                {
+                    "BooleanCustomFieldRef__custentity_fmt_customer_credit_on_hold": false,
+                    "LongCustomFieldRef__custentity_cust_priority": 50,
+                    "BooleanCustomFieldRef__custentity_fmt_cust_credit_on_hold": false,
+                    "BooleanCustomFieldRef__custentity_naw_trans_need_approval": false,
+                    "BooleanCustomFieldRef__custentity_wmsse_asn_required": false,
+                    "BooleanCustomFieldRef__custentity_2663_direct_debit": false,
+                    "BooleanCustomFieldRef__custentity18": false,
+                    "BooleanCustomFieldRef__custentity_2663_customer_refund": false,
+                    "BooleanCustomFieldRef__custentity_credappreqd": false,
+                    "BooleanCustomFieldRef__custentity_nsts_wodm_claim_ar_deduction": false,
+                    "BooleanCustomFieldRef__custentity_nsts_wodm_exclude_customer": false
+                }
+            ]
+        },
+    "entityId": "MuleSoft",
+    "stage": "PROSPECT",
+    "entityStatus": {
+        "externalId": null,
+        "type": null,
+        "internalId": "13456",
+        "name": "CUSTOMER-Closed Won"
+    },
+    "defaultAddress": "MuleSoft<br>415 Mission St<br>San Francisco CA 94105<br>United States"
+}

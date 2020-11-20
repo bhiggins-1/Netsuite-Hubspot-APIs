@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns:netsuite="http://www.mulesoft.org/schema/mule/netsuite"
+	xmlns:hubspot-system-api="http://www.mulesoft.org/schema/mule/hubspot-system-api"
+	xmlns:netsuite-system-api="http://www.mulesoft.org/schema/mule/netsuite-system-api"
+	xmlns:os="http://www.mulesoft.org/schema/mule/os" xmlns:http="http://www.mulesoft.org/schema/mule/http"
+	xmlns:batch="http://www.mulesoft.org/schema/mule/batch"
+	xmlns:ee="http://www.mulesoft.org/schema/mule/ee/core" xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="
+http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd 
+http://www.mulesoft.org/schema/mule/batch http://www.mulesoft.org/schema/mule/batch/current/mule-batch.xsd 
+http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/ee/core/current/mule-ee.xsd http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+http://www.mulesoft.org/schema/mule/os http://www.mulesoft.org/schema/mule/os/current/mule-os.xsd
+http://www.mulesoft.org/schema/mule/netsuite-system-api http://www.mulesoft.org/schema/mule/netsuite-system-api/current/mule-netsuite-system-api.xsd
+http://www.mulesoft.org/schema/mule/hubspot-system-api http://www.mulesoft.org/schema/mule/hubspot-system-api/current/mule-hubspot-system-api.xsd
+http://www.mulesoft.org/schema/mule/netsuite http://www.mulesoft.org/schema/mule/netsuite/current/mule-netsuite.xsd">
+
+	<netsuite-system-api:config name="Netsuite_System_Api_Config" doc:name="Netsuite System Api Config" doc:id="748ab105-0046-4719-b34f-4a0ca14eb4d0" property_host="360-netsuite-system-api.us-e2.cloudhub.io" property_basePath="/api" property_protocol="HTTP" property_port="80"/>
+	<flow name="hubspotBusinessLogicFlowForEach" doc:id="993cc62d-b90c-4f36-bdf7-cd6affe7cbf8" >
+		<foreach doc:name="For Each" doc:id="270d1db6-3749-4316-b3c0-4107daa6dc12" collection="#[payload]">
+			<logger level="INFO" doc:name="Logger" doc:id="d8737969-563c-4a3b-ba70-e95bfba9d9d5" message='#[{
+	"message": "#### Entering queryAccountInNetsuiteForEach",
+	"record": payload
+}]' />
+			<set-variable value="#[payload]" doc:name="Store HubSpot Company Properties" doc:id="e350f1f6-ac74-4bf7-a1a9-2a5f191b627f" variableName="HubSpotCompanyPropertiesRecord" />
+			<ee:transform doc:name="Build NetSuite Customer Search Request" doc:id="7ef8406a-2979-4a77-9ae9-63f1b0169faf" >
+				<ee:message >
+					<ee:set-payload ><![CDATA[%dw 2.0
+output application/java
+---
+{
+	basic: {
+		companyName: {
+			operator: "CONTAINS",
+			searchValue: vars.HubSpotCompanyPropertiesRecord.name as String default ""
+		}
+	}
+} as Object {
+	class: "com.mulesoft.connector.netsuite.extension.api.CustomerSearch"
+}]]></ee:set-payload>
+				</ee:message>
+			</ee:transform>
+			<netsuite:search key="CUSTOMER" doc:name="NetSuite Account Search" doc:id="b40b4ecf-38da-4819-be99-c19a4031092c" config-ref="NetSuite_Config" pageSize="10" />
+			<set-variable value="#[payload]" doc:name="NetSuiteSearchResult" doc:id="5a126400-d89b-4cd2-b253-2326612cab47" variableName="NetSuiteSearchResult" />
+			<logger level="INFO" doc:name="Logger" doc:id="45c0c786-0e10-4a35-add6-e2e92852bd84" message="#[payload]" />
+			<choice doc:name="Choice" doc:id="24944004-c689-4128-a65e-17caf3f82eed" >
+				<when expression="#[sizeOf(payload) == 0]" >
+					<logger level="INFO" doc:name="Creating Customer in NetSuite" doc:id="76125f8b-d1f6-407b-a9b0-d242be793ee4" message='#[{
+	"message": "Create new Customer",
+	"properties": vars.HubSpotCompanyPropertiesRecord default ""
+}]' />
+					<ee:transform doc:name="Transform Message" doc:id="bf3e8cfc-ae56-498d-9812-add6a0d2ec9c" >
+						<ee:message >
+							<ee:set-payload ><![CDATA[/*%dw 2.0
+output application/java
+---
+{
+	acctName: vars.HubSpotCompanyPropertiesRecord.properties.name default "",
+	acctType: "Company"
+} */
+
+%dw 2.0
+output application/java
+---
+{
+	companyName: vars.HubSpotCompanyPropertiesRecord.name as String default "",
+        "customFieldList": {
+        "customField": [
+            {
+//                "DateCustomFieldRef__custentity_esc_last_modified_date": now() as DateTime
+            }
+        ]
+    },
+	email: vars.HubSpotCompanyPropertiesRecord.email as String default "bryan.higgins@mulesoft.com",
+	entityId: vars.HubSpotCompanyPropertiesRecord.name as String default "",
+	isInactive: vars.HubSpotCompanyPropertiesRecord.archived as Boolean default false 
+}]]></ee:set-payload>
+						</ee:message>
+					</ee:transform>
+					<netsuite:add-record doc:name="Add record" doc:id="5cb10698-d219-4613-a570-86b18d0d08f6" config-ref="NetSuite_Config" recordType="CUSTOMER"/>
+					<logger level="INFO" doc:name="Logger" doc:id="d11c41c2-f964-4a80-8df2-d03f4b1ccba9" />
+				</when>
+				<otherwise >
+					<logger level="INFO" doc:name="Logger" doc:id="ce00038a-eccc-4c43-b4a6-2151a05341eb" message='#[{
+	"message": "Company exists!",
+	"properties": vars.HubSpotCompanyPropertiesRecord
+}]' />
+				</otherwise>
+			</choice>
+			<logger level="INFO" doc:name="Logger" doc:id="332e9e15-08dd-4be0-86bf-d69e78e65645" message="#[payload]" />
+		</foreach>
+	</flow>
+	</mule>

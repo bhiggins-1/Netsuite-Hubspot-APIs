@@ -1,0 +1,1030 @@
+{
+    "results": [
+        {
+            "portalId": 8467786,
+            "companyId": 4555364285,
+            "isDeleted": false,
+            "properties": {
+                "country": {
+                    "value": "United States",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "country",
+                            "value": "United States",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "city": {
+                    "value": "",
+                    "timestamp": 1601561825594,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "city",
+                            "value": "",
+                            "timestamp": 1601561825594,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "6cc04ac6-3443-4a92-b108-116a9cd9e7ba"
+                        }
+                    ]
+                },
+                "num_associated_contacts": {
+                    "value": "0",
+                    "timestamp": 1601521396431,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "num_associated_contacts",
+                            "value": "0",
+                            "timestamp": 1601521396431,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "timezone": {
+                    "value": "America/New_York",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "timezone",
+                            "value": "America/New_York",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "facebook_company_page": {
+                    "value": "https://www.facebook.com/nba",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "facebook_company_page",
+                            "value": "https://www.facebook.com/nba",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "createdate": {
+                    "value": "1601521335529",
+                    "timestamp": 1601521335529,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "createdate",
+                            "value": "1601521335529",
+                            "timestamp": 1601521335529,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "8ce412e5-27e2-4d09-b4e3-02d3a7291374"
+                        }
+                    ]
+                },
+                "description": {
+                    "value": "The National Basketball Association is the pre-eminent men's professional basketball league in North America, and is widely considered to be the premier men's professional basketball league in the world.",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "description",
+                            "value": "The National Basketball Association is the pre-eminent men's professional basketball league in North America, and is widely considered to be the premier men's professional basketball league in the world.",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "industry": {
+                    "value": "CONSUMER",
+                    "timestamp": 1601521335529,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "industry",
+                            "value": "CONSUMER",
+                            "timestamp": 1601521335529,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "8ce412e5-27e2-4d09-b4e3-02d3a7291374"
+                        }
+                    ]
+                },
+                "web_technologies": {
+                    "value": "new_relic;app_nexus;google_tag_manager;facebook_connect;facebook_social_plugins;akamai_dns;express;elasticemail;ios;branch;facebook_advertiser;amazon_associates;drupal;marketo;google_analytics;twitter_button;akamai;amazon__cloudfront;share_this",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "web_technologies",
+                            "value": "new_relic;app_nexus;google_tag_manager;facebook_connect;facebook_social_plugins;akamai_dns;express;elasticemail;ios;branch;facebook_advertiser;amazon_associates;drupal;marketo;google_analytics;twitter_button;akamai;amazon__cloudfront;share_this",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "numberofemployees": {
+                    "value": "5000",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "numberofemployees",
+                            "value": "5000",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "linkedin_company_page": {
+                    "value": "https://www.linkedin.com/company/national-basketball-association",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "linkedin_company_page",
+                            "value": "https://www.linkedin.com/company/national-basketball-association",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "annualrevenue": {
+                    "value": "100000000",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "annualrevenue",
+                            "value": "100000000",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "founded_year": {
+                    "value": "1946",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "founded_year",
+                            "value": "1946",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "state": {
+                    "value": "",
+                    "timestamp": 1601561825594,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "state",
+                            "value": "",
+                            "timestamp": 1601561825594,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "6cc04ac6-3443-4a92-b108-116a9cd9e7ba"
+                        }
+                    ]
+                },
+                "linkedinbio": {
+                    "value": "The National Basketball Association is the pre-eminent men's professional basketball league in North America, and is widely considered to be the premier men's professional basketball league in the world.",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "linkedinbio",
+                            "value": "The National Basketball Association is the pre-eminent men's professional basketball league in North America, and is widely considered to be the premier men's professional basketball league in the world.",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "zip": {
+                    "value": "10022",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "zip",
+                            "value": "10022",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "website": {
+                    "value": "https://www.nba.com/hawks/",
+                    "timestamp": 1601521335529,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "website",
+                            "value": "https://www.nba.com/hawks/",
+                            "timestamp": 1601521335529,
+                            "source": "CALCULATED",
+                            "sourceVid": [],
+                            "requestId": "8ce412e5-27e2-4d09-b4e3-02d3a7291374"
+                        }
+                    ]
+                },
+                "address": {
+                    "value": "645 5th Avenue",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "address",
+                            "value": "645 5th Avenue",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "twitterhandle": {
+                    "value": "NBAcom",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "twitterhandle",
+                            "value": "NBAcom",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_target_account_probability": {
+                    "value": "0.4076234698295593",
+                    "timestamp": 1601521398416,
+                    "source": "SALES",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_target_account_probability",
+                            "value": "0.4076234698295593",
+                            "timestamp": 1601521398416,
+                            "source": "SALES",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_lastmodifieddate": {
+                    "value": "1601602586501",
+                    "timestamp": 1601602586501,
+                    "source": "CALCULATED",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "hs_lastmodifieddate",
+                            "value": "1601602586501",
+                            "timestamp": 1601602586501,
+                            "sourceId": "PublicObjectResource",
+                            "source": "CALCULATED",
+                            "sourceVid": [],
+                            "requestId": "a1710966-8e83-4177-84d0-7c8831e980d5"
+                        }
+                    ]
+                },
+                "phone": {
+                    "value": "1-866-715-1502",
+                    "timestamp": 1601602586501,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "phone",
+                            "value": "1-866-715-1502",
+                            "timestamp": 1601602586501,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "a1710966-8e83-4177-84d0-7c8831e980d5"
+                        }
+                    ]
+                },
+                "domain": {
+                    "value": "https://nba.com/hawks",
+                    "timestamp": 1601569199821,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "domain",
+                            "value": "https://nba.com/hawks",
+                            "timestamp": 1601569199821,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "528ad277-edb0-4909-b1aa-ffee8a5fd698"
+                        }
+                    ]
+                },
+                "hs_num_child_companies": {
+                    "value": "0",
+                    "timestamp": 1601521396431,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "hs_num_child_companies",
+                            "value": "0",
+                            "timestamp": 1601521396431,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_object_id": {
+                    "value": "4555364285",
+                    "timestamp": 1601521335529,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "hs_object_id",
+                            "value": "4555364285",
+                            "timestamp": 1601521335529,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "8ce412e5-27e2-4d09-b4e3-02d3a7291374"
+                        }
+                    ]
+                },
+                "is_public": {
+                    "value": "false",
+                    "timestamp": 1601521335884,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "is_public",
+                            "value": "false",
+                            "timestamp": 1601521335884,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "name": {
+                    "value": "Atlanta Hawks",
+                    "timestamp": 1601521335529,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "name",
+                            "value": "Atlanta Hawks",
+                            "timestamp": 1601521335529,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "8ce412e5-27e2-4d09-b4e3-02d3a7291374"
+                        }
+                    ]
+                }
+            },
+            "additionalDomains": [],
+            "stateChanges": [],
+            "mergeAudits": []
+        },
+        {
+            "portalId": 8467786,
+            "companyId": 4555248661,
+            "isDeleted": false,
+            "properties": {
+                "country": {
+                    "value": "United States",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "country",
+                            "value": "United States",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "city": {
+                    "value": "",
+                    "timestamp": 1601561825104,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "city",
+                            "value": "",
+                            "timestamp": 1601561825104,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "cd7a5dab-105d-487f-8011-dcc9869250e0"
+                        }
+                    ]
+                },
+                "num_associated_contacts": {
+                    "value": "0",
+                    "timestamp": 1601521247026,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "num_associated_contacts",
+                            "value": "0",
+                            "timestamp": 1601521247026,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "timezone": {
+                    "value": "America/New_York",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "timezone",
+                            "value": "America/New_York",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "facebook_company_page": {
+                    "value": "https://facebook.com/mlb",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "facebook_company_page",
+                            "value": "https://facebook.com/mlb",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "createdate": {
+                    "value": "1601521186091",
+                    "timestamp": 1601521186091,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "createdate",
+                            "value": "1601521186091",
+                            "timestamp": 1601521186091,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "084e9107-6859-4a65-bbb5-10c18ffc4025"
+                        }
+                    ]
+                },
+                "description": {
+                    "value": "Mlb.com is the official site of Major League Baseball and is overseen by Major League Baseball Advanced Media, LP.",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "description",
+                            "value": "Mlb.com is the official site of Major League Baseball and is overseen by Major League Baseball Advanced Media, LP.",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "industry": {
+                    "value": "CONSUMER",
+                    "timestamp": 1601521186091,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "industry",
+                            "value": "CONSUMER",
+                            "timestamp": 1601521186091,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "084e9107-6859-4a65-bbb5-10c18ffc4025"
+                        }
+                    ]
+                },
+                "web_technologies": {
+                    "value": "microsoft_exchange_online;new_relic;google_adsense;nginx;app_nexus;dyn_dns;google_tag_manager;mandrill;ios;cloudinary;facebook_advertiser;microsoft_office_365;omniture_adobe_analytics;twitter_button;double_click;outlook;amazon_s3;omniture;shopify;chart_beat;cloud_flare;varnish",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "web_technologies",
+                            "value": "microsoft_exchange_online;new_relic;google_adsense;nginx;app_nexus;dyn_dns;google_tag_manager;mandrill;ios;cloudinary;facebook_advertiser;microsoft_office_365;omniture_adobe_analytics;twitter_button;double_click;outlook;amazon_s3;omniture;shopify;chart_beat;cloud_flare;varnish",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "numberofemployees": {
+                    "value": "10000",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "numberofemployees",
+                            "value": "10000",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "linkedin_company_page": {
+                    "value": "https://www.linkedin.com/company/mlb-advanced-media-l.p.",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "linkedin_company_page",
+                            "value": "https://www.linkedin.com/company/mlb-advanced-media-l.p.",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "annualrevenue": {
+                    "value": "1000000",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "annualrevenue",
+                            "value": "1000000",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "founded_year": {
+                    "value": "2000",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "founded_year",
+                            "value": "2000",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "state": {
+                    "value": "",
+                    "timestamp": 1601561825104,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "state",
+                            "value": "",
+                            "timestamp": 1601561825104,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "cd7a5dab-105d-487f-8011-dcc9869250e0"
+                        }
+                    ]
+                },
+                "linkedinbio": {
+                    "value": "Mlb.com is the official site of Major League Baseball and is overseen by Major League Baseball Advanced Media, LP.",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "linkedinbio",
+                            "value": "Mlb.com is the official site of Major League Baseball and is overseen by Major League Baseball Advanced Media, LP.",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "zip": {
+                    "value": "10011",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "zip",
+                            "value": "10011",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "website": {
+                    "value": "https://www.mlb.com/braves",
+                    "timestamp": 1601521186091,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "website",
+                            "value": "https://www.mlb.com/braves",
+                            "timestamp": 1601521186091,
+                            "source": "CALCULATED",
+                            "sourceVid": [],
+                            "requestId": "084e9107-6859-4a65-bbb5-10c18ffc4025"
+                        }
+                    ]
+                },
+                "address": {
+                    "value": "75 9th Avenue",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "address",
+                            "value": "75 9th Avenue",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "twitterhandle": {
+                    "value": "MLB",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "twitterhandle",
+                            "value": "MLB",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_target_account_probability": {
+                    "value": "0.4076234698295593",
+                    "timestamp": 1601521248788,
+                    "source": "SALES",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_target_account_probability",
+                            "value": "0.4076234698295593",
+                            "timestamp": 1601521248788,
+                            "source": "SALES",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_lastmodifieddate": {
+                    "value": "1601561825104",
+                    "timestamp": 1601561825104,
+                    "source": "CALCULATED",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "hs_lastmodifieddate",
+                            "value": "1601561825104",
+                            "timestamp": 1601561825104,
+                            "sourceId": "PublicObjectResource",
+                            "source": "CALCULATED",
+                            "sourceVid": [],
+                            "requestId": "cd7a5dab-105d-487f-8011-dcc9869250e0"
+                        }
+                    ]
+                },
+                "phone": {
+                    "value": "",
+                    "timestamp": 1601561825104,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "phone",
+                            "value": "",
+                            "timestamp": 1601561825104,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "cd7a5dab-105d-487f-8011-dcc9869250e0"
+                        }
+                    ]
+                },
+                "domain": {
+                    "value": "https://www.mlb.com/braves",
+                    "timestamp": 1601521186091,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "domain",
+                            "value": "https://www.mlb.com/braves",
+                            "timestamp": 1601521186091,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "084e9107-6859-4a65-bbb5-10c18ffc4025"
+                        }
+                    ]
+                },
+                "hs_num_child_companies": {
+                    "value": "0",
+                    "timestamp": 1601521247026,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "hs_num_child_companies",
+                            "value": "0",
+                            "timestamp": 1601521247026,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_object_id": {
+                    "value": "4555248661",
+                    "timestamp": 1601521186091,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "hs_object_id",
+                            "value": "4555248661",
+                            "timestamp": 1601521186091,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "084e9107-6859-4a65-bbb5-10c18ffc4025"
+                        }
+                    ]
+                },
+                "is_public": {
+                    "value": "false",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "is_public",
+                            "value": "false",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "name": {
+                    "value": "Atlanta Braves",
+                    "timestamp": 1601521186091,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "name",
+                            "value": "Atlanta Braves",
+                            "timestamp": 1601521186091,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "084e9107-6859-4a65-bbb5-10c18ffc4025"
+                        }
+                    ]
+                }
+            },
+            "additionalDomains": [],
+            "stateChanges": [],
+            "mergeAudits": []
+        },
+        {
+            "portalId": 8467786,
+            "companyId": 4555251943,
+            "isDeleted": false,
+            "properties": {
+                "hs_target_account_probability": {
+                    "value": "0.4076234698295593",
+                    "timestamp": 1601521247847,
+                    "source": "SALES",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_target_account_probability",
+                            "value": "0.4076234698295593",
+                            "timestamp": 1601521247847,
+                            "source": "SALES",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_lastmodifieddate": {
+                    "value": "1601521247847",
+                    "timestamp": 1601521247847,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_lastmodifieddate",
+                            "value": "1601521247847",
+                            "timestamp": 1601521247847,
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "num_associated_contacts": {
+                    "value": "0",
+                    "timestamp": 1601521246816,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "num_associated_contacts",
+                            "value": "0",
+                            "timestamp": 1601521246816,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_num_child_companies": {
+                    "value": "0",
+                    "timestamp": 1601521246816,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "hs_num_child_companies",
+                            "value": "0",
+                            "timestamp": 1601521246816,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_object_id": {
+                    "value": "4555251943",
+                    "timestamp": 1601521185421,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "hs_object_id",
+                            "value": "4555251943",
+                            "timestamp": 1601521185421,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "98e9320a-423a-4bdf-b19a-cfcd8432c75d"
+                        }
+                    ]
+                },
+                "name": {
+                    "value": "A00000149",
+                    "timestamp": 1601521185421,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "name",
+                            "value": "A00000149",
+                            "timestamp": 1601521185421,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "98e9320a-423a-4bdf-b19a-cfcd8432c75d"
+                        }
+                    ]
+                },
+                "createdate": {
+                    "value": "1601521185421",
+                    "timestamp": 1601521185421,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "createdate",
+                            "value": "1601521185421",
+                            "timestamp": 1601521185421,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "98e9320a-423a-4bdf-b19a-cfcd8432c75d"
+                        }
+                    ]
+                }
+            },
+            "additionalDomains": [],
+            "stateChanges": [],
+            "mergeAudits": []
+        }
+    ],
+    "hasMore": false,
+    "offset": 7,
+    "total": 7
+}

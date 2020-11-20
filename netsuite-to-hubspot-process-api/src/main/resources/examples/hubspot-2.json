@@ -1,0 +1,16 @@
+[
+  {
+    "eventId": "100",
+    "subscriptionId": 308198,
+    "portalId": 8468294,
+    "occurredAt": 1601603401768,
+    "subscriptionType": "company.propertyChange",
+    "attemptNumber": 0,
+    "objectId": 123,
+    "changeSource": "CRM",
+    "changeFlag": "NEW",
+    "propertyName": "phone",
+    "propertyValue": "sample-value"
+  }
+]
+

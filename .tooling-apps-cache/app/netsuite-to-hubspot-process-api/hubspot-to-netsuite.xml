@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns:hubspot-system-api="http://www.mulesoft.org/schema/mule/hubspot-system-api"
+	xmlns:os="http://www.mulesoft.org/schema/mule/os" xmlns:https="http://www.mulesoft.org/schema/mule/https"
+	xmlns:tls="http://www.mulesoft.org/schema/mule/tls"
+	xmlns:ee="http://www.mulesoft.org/schema/mule/ee/core" xmlns:http="http://www.mulesoft.org/schema/mule/http" xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="
+http://www.mulesoft.org/schema/mule/https http://www.mulesoft.org/schema/mule/https/current/mule-https.xsd http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd
+http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/ee/core/current/mule-ee.xsd
+http://www.mulesoft.org/schema/mule/tls http://www.mulesoft.org/schema/mule/tls/current/mule-tls.xsd
+http://www.mulesoft.org/schema/mule/os http://www.mulesoft.org/schema/mule/os/current/mule-os.xsd
+http://www.mulesoft.org/schema/mule/hubspot-system-api http://www.mulesoft.org/schema/mule/hubspot-system-api/current/mule-hubspot-system-api.xsd">
+
+	<http:request-config name="Hubspot_v2" doc:name="HTTP Request configuration" doc:id="135e3be4-6ca7-4a8a-a044-d74f1895394a" >
+		<http:request-connection protocol="HTTPS" host="api.hubapi.com" port="443" />
+	</http:request-config>
+	<os:object-store name="hubspot_WatermarkStore" doc:name="Object store" doc:id="4ecb0d3e-8797-4112-b790-6f4886841a00" />
+	<http:listener-config name="HTTP_Listener_config" doc:name="HTTP Listener config" doc:id="45fa2f01-45c2-43f7-94ff-80d421a58db3" >
+		<http:listener-connection host="0.0.0.0" port="${http.port}" />
+	</http:listener-config>
+	<flow name="hubspotSchedulerFlow" doc:id="4d0d11ff-94be-4e7e-a631-65b2f5ec53e7">
+		<http:listener doc:name="Listener" doc:id="335456a7-b55e-4239-a36c-37488ec5a7bc" config-ref="HTTP_Listener_config" path="/hubspotScheduler"/>
+		<flow-ref doc:name="hubspotQueryFlow" doc:id="aa2254ed-973d-41de-babe-333571e3cf8e"
+			name="hubspotQueryFlow" />
+		<flow-ref name="hubspotBusinessLogicFlowForEach" doc:name="businessLogicFlow"
+			doc:id="f96e40b6-d670-4849-8a10-6d3658aa43bd" />
+		<error-handler>
+			<on-error-propagate enableNotifications="true"
+				logException="true" doc:name="On Error Propagate" doc:id="6324f342-0f0a-492b-8cfc-8c4186db886e"
+				type="ANY">
+				<flow-ref doc:name="errorHandlingFlow" doc:id="eef660a6-48f8-4186-8675-fcceae62cbd0"
+					name="errorHandlingFlow" />
+			</on-error-propagate>
+		</error-handler>
+	</flow>
+	<flow name="hubspotQueryFlow">
+		<os:retrieve key="HubSpotWatermark" objectStore="hubspot_WatermarkStore"
+			target="hubspotLastQueryTimestamp" doc:name="Retrieve lastQueryTimestamp">
+			<os:default-value ><![CDATA[#[p('hubspot.watermark.default.expression')]]]></os:default-value>
+		</os:retrieve>
+		<hubspot-system-api:filter-sort-and-search-crm-objects doc:name="Filter, Sort, and Search CRM Objects" doc:id="5421056f-0131-4ba4-a0de-33fb4baa7d9d" config-ref="Hubspot_System_API_Config" hapikey="#[${hubspot.hapi_key}]">
+			<hubspot-system-api:filter-sort-and-search-crm-objects-request-data ><![CDATA[#[{
+	"filterGroups": [
+	{
+		"filters": [
+			{
+				"propertyName": "name",
+				"operator": "HAS_PROPERTY"
+			}
+		]
+	}
+	],
+	"sorts": [
+		"hs_lastmodifieddate"
+    ]
+}]]]></hubspot-system-api:filter-sort-and-search-crm-objects-request-data>
+		</hubspot-system-api:filter-sort-and-search-crm-objects>
+		<ee:transform doc:name="Transform Message" doc:id="6a32f4a3-bd91-426a-9fc4-237946dc331d" >
+			<ee:message >
+				<ee:set-payload ><![CDATA[payload.results.properties]]></ee:set-payload>
+			</ee:message>
+		</ee:transform>
+		<os:store doc:name="Store hubspotLastQueryTimestamp" doc:id="0e370013-4ed3-489d-aefd-f6abd55c5e0f" key="HubSpotWatermark" objectStore="hubspot_WatermarkStore">
+			<os:value ><![CDATA[#[max(payload.hs_lastmodifieddate)]]]></os:value>
+		</os:store>
+		<logger level="INFO" doc:name="Logger" doc:id="cf3659ed-c091-45f4-afc0-fee5c8bde957" message="#[vars.objectStoreTimestamp]"/>
+	</flow>
+</mule>

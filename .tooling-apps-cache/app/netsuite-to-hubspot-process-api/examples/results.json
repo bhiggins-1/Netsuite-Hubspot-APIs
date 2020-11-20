@@ -1,0 +1,3222 @@
+{
+    "results": [
+        {
+            "portalId": 8467786,
+            "companyId": 4555364285,
+            "isDeleted": false,
+            "properties": {
+                "country": {
+                    "value": "United States",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "country",
+                            "value": "United States",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "city": {
+                    "value": "",
+                    "timestamp": 1601561825594,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "city",
+                            "value": "",
+                            "timestamp": 1601561825594,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "6cc04ac6-3443-4a92-b108-116a9cd9e7ba"
+                        }
+                    ]
+                },
+                "num_associated_contacts": {
+                    "value": "0",
+                    "timestamp": 1601521396431,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "num_associated_contacts",
+                            "value": "0",
+                            "timestamp": 1601521396431,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "timezone": {
+                    "value": "America/New_York",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "timezone",
+                            "value": "America/New_York",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "facebook_company_page": {
+                    "value": "https://www.facebook.com/nba",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "facebook_company_page",
+                            "value": "https://www.facebook.com/nba",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "createdate": {
+                    "value": "1601521335529",
+                    "timestamp": 1601521335529,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "createdate",
+                            "value": "1601521335529",
+                            "timestamp": 1601521335529,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "8ce412e5-27e2-4d09-b4e3-02d3a7291374"
+                        }
+                    ]
+                },
+                "description": {
+                    "value": "The National Basketball Association is the pre-eminent men's professional basketball league in North America, and is widely considered to be the premier men's professional basketball league in the world.",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "description",
+                            "value": "The National Basketball Association is the pre-eminent men's professional basketball league in North America, and is widely considered to be the premier men's professional basketball league in the world.",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "industry": {
+                    "value": "CONSUMER",
+                    "timestamp": 1601521335529,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "industry",
+                            "value": "CONSUMER",
+                            "timestamp": 1601521335529,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "8ce412e5-27e2-4d09-b4e3-02d3a7291374"
+                        }
+                    ]
+                },
+                "web_technologies": {
+                    "value": "new_relic;app_nexus;google_tag_manager;facebook_connect;facebook_social_plugins;akamai_dns;express;elasticemail;ios;branch;facebook_advertiser;amazon_associates;drupal;marketo;google_analytics;twitter_button;akamai;amazon__cloudfront;share_this",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "web_technologies",
+                            "value": "new_relic;app_nexus;google_tag_manager;facebook_connect;facebook_social_plugins;akamai_dns;express;elasticemail;ios;branch;facebook_advertiser;amazon_associates;drupal;marketo;google_analytics;twitter_button;akamai;amazon__cloudfront;share_this",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "numberofemployees": {
+                    "value": "5000",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "numberofemployees",
+                            "value": "5000",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "linkedin_company_page": {
+                    "value": "https://www.linkedin.com/company/national-basketball-association",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "linkedin_company_page",
+                            "value": "https://www.linkedin.com/company/national-basketball-association",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "annualrevenue": {
+                    "value": "100000000",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "annualrevenue",
+                            "value": "100000000",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "founded_year": {
+                    "value": "1946",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "founded_year",
+                            "value": "1946",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "state": {
+                    "value": "",
+                    "timestamp": 1601561825594,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "state",
+                            "value": "",
+                            "timestamp": 1601561825594,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "6cc04ac6-3443-4a92-b108-116a9cd9e7ba"
+                        }
+                    ]
+                },
+                "linkedinbio": {
+                    "value": "The National Basketball Association is the pre-eminent men's professional basketball league in North America, and is widely considered to be the premier men's professional basketball league in the world.",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "linkedinbio",
+                            "value": "The National Basketball Association is the pre-eminent men's professional basketball league in North America, and is widely considered to be the premier men's professional basketball league in the world.",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "zip": {
+                    "value": "10022",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "zip",
+                            "value": "10022",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "website": {
+                    "value": "https://www.nba.com/hawks/",
+                    "timestamp": 1601521335529,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "website",
+                            "value": "https://www.nba.com/hawks/",
+                            "timestamp": 1601521335529,
+                            "source": "CALCULATED",
+                            "sourceVid": [],
+                            "requestId": "8ce412e5-27e2-4d09-b4e3-02d3a7291374"
+                        }
+                    ]
+                },
+                "address": {
+                    "value": "645 5th Avenue",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "address",
+                            "value": "645 5th Avenue",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "twitterhandle": {
+                    "value": "NBAcom",
+                    "timestamp": 1601569200329,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "twitterhandle",
+                            "value": "NBAcom",
+                            "timestamp": 1601569200329,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_target_account_probability": {
+                    "value": "0.4076234698295593",
+                    "timestamp": 1601521398416,
+                    "source": "SALES",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_target_account_probability",
+                            "value": "0.4076234698295593",
+                            "timestamp": 1601521398416,
+                            "source": "SALES",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_lastmodifieddate": {
+                    "value": "1601602586501",
+                    "timestamp": 1601602586501,
+                    "source": "CALCULATED",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "hs_lastmodifieddate",
+                            "value": "1601602586501",
+                            "timestamp": 1601602586501,
+                            "sourceId": "PublicObjectResource",
+                            "source": "CALCULATED",
+                            "sourceVid": [],
+                            "requestId": "a1710966-8e83-4177-84d0-7c8831e980d5"
+                        }
+                    ]
+                },
+                "phone": {
+                    "value": "1-866-715-1502",
+                    "timestamp": 1601602586501,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "phone",
+                            "value": "1-866-715-1502",
+                            "timestamp": 1601602586501,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "a1710966-8e83-4177-84d0-7c8831e980d5"
+                        }
+                    ]
+                },
+                "domain": {
+                    "value": "https://nba.com/hawks",
+                    "timestamp": 1601569199821,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "domain",
+                            "value": "https://nba.com/hawks",
+                            "timestamp": 1601569199821,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "528ad277-edb0-4909-b1aa-ffee8a5fd698"
+                        }
+                    ]
+                },
+                "hs_num_child_companies": {
+                    "value": "0",
+                    "timestamp": 1601521396431,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "hs_num_child_companies",
+                            "value": "0",
+                            "timestamp": 1601521396431,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_object_id": {
+                    "value": "4555364285",
+                    "timestamp": 1601521335529,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "hs_object_id",
+                            "value": "4555364285",
+                            "timestamp": 1601521335529,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "8ce412e5-27e2-4d09-b4e3-02d3a7291374"
+                        }
+                    ]
+                },
+                "is_public": {
+                    "value": "false",
+                    "timestamp": 1601521335884,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "is_public",
+                            "value": "false",
+                            "timestamp": 1601521335884,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "name": {
+                    "value": "Atlanta Hawks",
+                    "timestamp": 1601521335529,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "name",
+                            "value": "Atlanta Hawks",
+                            "timestamp": 1601521335529,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "8ce412e5-27e2-4d09-b4e3-02d3a7291374"
+                        }
+                    ]
+                }
+            },
+            "additionalDomains": [],
+            "stateChanges": [],
+            "mergeAudits": []
+        },
+        {
+            "portalId": 8467786,
+            "companyId": 4555248661,
+            "isDeleted": false,
+            "properties": {
+                "country": {
+                    "value": "United States",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "country",
+                            "value": "United States",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "city": {
+                    "value": "",
+                    "timestamp": 1601561825104,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "city",
+                            "value": "",
+                            "timestamp": 1601561825104,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "cd7a5dab-105d-487f-8011-dcc9869250e0"
+                        }
+                    ]
+                },
+                "num_associated_contacts": {
+                    "value": "0",
+                    "timestamp": 1601521247026,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "num_associated_contacts",
+                            "value": "0",
+                            "timestamp": 1601521247026,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "timezone": {
+                    "value": "America/New_York",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "timezone",
+                            "value": "America/New_York",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "facebook_company_page": {
+                    "value": "https://facebook.com/mlb",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "facebook_company_page",
+                            "value": "https://facebook.com/mlb",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "createdate": {
+                    "value": "1601521186091",
+                    "timestamp": 1601521186091,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "createdate",
+                            "value": "1601521186091",
+                            "timestamp": 1601521186091,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "084e9107-6859-4a65-bbb5-10c18ffc4025"
+                        }
+                    ]
+                },
+                "description": {
+                    "value": "Mlb.com is the official site of Major League Baseball and is overseen by Major League Baseball Advanced Media, LP.",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "description",
+                            "value": "Mlb.com is the official site of Major League Baseball and is overseen by Major League Baseball Advanced Media, LP.",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "industry": {
+                    "value": "CONSUMER",
+                    "timestamp": 1601521186091,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "industry",
+                            "value": "CONSUMER",
+                            "timestamp": 1601521186091,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "084e9107-6859-4a65-bbb5-10c18ffc4025"
+                        }
+                    ]
+                },
+                "web_technologies": {
+                    "value": "microsoft_exchange_online;new_relic;google_adsense;nginx;app_nexus;dyn_dns;google_tag_manager;mandrill;ios;cloudinary;facebook_advertiser;microsoft_office_365;omniture_adobe_analytics;twitter_button;double_click;outlook;amazon_s3;omniture;shopify;chart_beat;cloud_flare;varnish",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "web_technologies",
+                            "value": "microsoft_exchange_online;new_relic;google_adsense;nginx;app_nexus;dyn_dns;google_tag_manager;mandrill;ios;cloudinary;facebook_advertiser;microsoft_office_365;omniture_adobe_analytics;twitter_button;double_click;outlook;amazon_s3;omniture;shopify;chart_beat;cloud_flare;varnish",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "numberofemployees": {
+                    "value": "10000",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "numberofemployees",
+                            "value": "10000",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "linkedin_company_page": {
+                    "value": "https://www.linkedin.com/company/mlb-advanced-media-l.p.",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "linkedin_company_page",
+                            "value": "https://www.linkedin.com/company/mlb-advanced-media-l.p.",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "annualrevenue": {
+                    "value": "1000000",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "annualrevenue",
+                            "value": "1000000",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "founded_year": {
+                    "value": "2000",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "founded_year",
+                            "value": "2000",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "state": {
+                    "value": "",
+                    "timestamp": 1601561825104,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "state",
+                            "value": "",
+                            "timestamp": 1601561825104,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "cd7a5dab-105d-487f-8011-dcc9869250e0"
+                        }
+                    ]
+                },
+                "linkedinbio": {
+                    "value": "Mlb.com is the official site of Major League Baseball and is overseen by Major League Baseball Advanced Media, LP.",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "linkedinbio",
+                            "value": "Mlb.com is the official site of Major League Baseball and is overseen by Major League Baseball Advanced Media, LP.",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "zip": {
+                    "value": "10011",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "zip",
+                            "value": "10011",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "website": {
+                    "value": "https://www.mlb.com/braves",
+                    "timestamp": 1601521186091,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "website",
+                            "value": "https://www.mlb.com/braves",
+                            "timestamp": 1601521186091,
+                            "source": "CALCULATED",
+                            "sourceVid": [],
+                            "requestId": "084e9107-6859-4a65-bbb5-10c18ffc4025"
+                        }
+                    ]
+                },
+                "address": {
+                    "value": "75 9th Avenue",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "address",
+                            "value": "75 9th Avenue",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "twitterhandle": {
+                    "value": "MLB",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "twitterhandle",
+                            "value": "MLB",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_target_account_probability": {
+                    "value": "0.4076234698295593",
+                    "timestamp": 1601521248788,
+                    "source": "SALES",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_target_account_probability",
+                            "value": "0.4076234698295593",
+                            "timestamp": 1601521248788,
+                            "source": "SALES",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_lastmodifieddate": {
+                    "value": "1601561825104",
+                    "timestamp": 1601561825104,
+                    "source": "CALCULATED",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "hs_lastmodifieddate",
+                            "value": "1601561825104",
+                            "timestamp": 1601561825104,
+                            "sourceId": "PublicObjectResource",
+                            "source": "CALCULATED",
+                            "sourceVid": [],
+                            "requestId": "cd7a5dab-105d-487f-8011-dcc9869250e0"
+                        }
+                    ]
+                },
+                "phone": {
+                    "value": "",
+                    "timestamp": 1601561825104,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "phone",
+                            "value": "",
+                            "timestamp": 1601561825104,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "cd7a5dab-105d-487f-8011-dcc9869250e0"
+                        }
+                    ]
+                },
+                "domain": {
+                    "value": "https://www.mlb.com/braves",
+                    "timestamp": 1601521186091,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "domain",
+                            "value": "https://www.mlb.com/braves",
+                            "timestamp": 1601521186091,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "084e9107-6859-4a65-bbb5-10c18ffc4025"
+                        }
+                    ]
+                },
+                "hs_num_child_companies": {
+                    "value": "0",
+                    "timestamp": 1601521247026,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "hs_num_child_companies",
+                            "value": "0",
+                            "timestamp": 1601521247026,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_object_id": {
+                    "value": "4555248661",
+                    "timestamp": 1601521186091,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "hs_object_id",
+                            "value": "4555248661",
+                            "timestamp": 1601521186091,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "084e9107-6859-4a65-bbb5-10c18ffc4025"
+                        }
+                    ]
+                },
+                "is_public": {
+                    "value": "false",
+                    "timestamp": 1601521186465,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "is_public",
+                            "value": "false",
+                            "timestamp": 1601521186465,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "name": {
+                    "value": "Atlanta Braves",
+                    "timestamp": 1601521186091,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "name",
+                            "value": "Atlanta Braves",
+                            "timestamp": 1601521186091,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "084e9107-6859-4a65-bbb5-10c18ffc4025"
+                        }
+                    ]
+                }
+            },
+            "additionalDomains": [],
+            "stateChanges": [],
+            "mergeAudits": []
+        },
+        {
+            "portalId": 8467786,
+            "companyId": 4555251943,
+            "isDeleted": false,
+            "properties": {
+                "hs_target_account_probability": {
+                    "value": "0.4076234698295593",
+                    "timestamp": 1601521247847,
+                    "source": "SALES",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_target_account_probability",
+                            "value": "0.4076234698295593",
+                            "timestamp": 1601521247847,
+                            "source": "SALES",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_lastmodifieddate": {
+                    "value": "1601521247847",
+                    "timestamp": 1601521247847,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_lastmodifieddate",
+                            "value": "1601521247847",
+                            "timestamp": 1601521247847,
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "num_associated_contacts": {
+                    "value": "0",
+                    "timestamp": 1601521246816,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "num_associated_contacts",
+                            "value": "0",
+                            "timestamp": 1601521246816,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_num_child_companies": {
+                    "value": "0",
+                    "timestamp": 1601521246816,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "hs_num_child_companies",
+                            "value": "0",
+                            "timestamp": 1601521246816,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_object_id": {
+                    "value": "4555251943",
+                    "timestamp": 1601521185421,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "hs_object_id",
+                            "value": "4555251943",
+                            "timestamp": 1601521185421,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "98e9320a-423a-4bdf-b19a-cfcd8432c75d"
+                        }
+                    ]
+                },
+                "name": {
+                    "value": "A00000149",
+                    "timestamp": 1601521185421,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "name",
+                            "value": "A00000149",
+                            "timestamp": 1601521185421,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "98e9320a-423a-4bdf-b19a-cfcd8432c75d"
+                        }
+                    ]
+                },
+                "createdate": {
+                    "value": "1601521185421",
+                    "timestamp": 1601521185421,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "createdate",
+                            "value": "1601521185421",
+                            "timestamp": 1601521185421,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "98e9320a-423a-4bdf-b19a-cfcd8432c75d"
+                        }
+                    ]
+                }
+            },
+            "additionalDomains": [],
+            "stateChanges": [],
+            "mergeAudits": []
+        },
+        {
+            "portalId": 8467786,
+            "companyId": 4549557237,
+            "isDeleted": false,
+            "properties": {
+                "country": {
+                    "value": "United States",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "country",
+                            "value": "United States",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "city": {
+                    "value": "Atlanta",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "city",
+                            "value": "Atlanta",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "num_associated_contacts": {
+                    "value": "0",
+                    "timestamp": 1601432029397,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "num_associated_contacts",
+                            "value": "0",
+                            "timestamp": 1601432029397,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "timezone": {
+                    "value": "America/New_York",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "timezone",
+                            "value": "America/New_York",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "facebook_company_page": {
+                    "value": "https://facebook.com/cnn",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "facebook_company_page",
+                            "value": "https://facebook.com/cnn",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "createdate": {
+                    "value": "1601431967390",
+                    "timestamp": 1601431967390,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "createdate",
+                            "value": "1601431967390",
+                            "timestamp": 1601431967390,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "description": {
+                    "value": "CNN is an American news-based pay television channel owned by CNN Worldwide, a unit of the WarnerMedia News & Sports division of AT&T's WarnerMedia.",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "description",
+                            "value": "CNN is an American news-based pay television channel owned by CNN Worldwide, a unit of the WarnerMedia News & Sports division of AT&T's WarnerMedia.",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "industry": {
+                    "value": "BROADCAST_MEDIA",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "industry",
+                            "value": "BROADCAST_MEDIA",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "web_technologies": {
+                    "value": "aws_route_53;unbounce;facebook_advertiser;salesforce;app_nexus;segment;outbrain_ads;google_tag_manager;optimizely;bing_advertiser;microsoft_office_365;amazon_s3;foresee;quantcast;max_c_d_n;zendesk;chart_beat;clicktale",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "web_technologies",
+                            "value": "aws_route_53;unbounce;facebook_advertiser;salesforce;app_nexus;segment;outbrain_ads;google_tag_manager;optimizely;bing_advertiser;microsoft_office_365;amazon_s3;foresee;quantcast;max_c_d_n;zendesk;chart_beat;clicktale",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "numberofemployees": {
+                    "value": "10000",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "numberofemployees",
+                            "value": "10000",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "linkedin_company_page": {
+                    "value": "https://www.linkedin.com/company/cnn",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "linkedin_company_page",
+                            "value": "https://www.linkedin.com/company/cnn",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "hubspot_owner_id": {
+                    "value": "51144609",
+                    "timestamp": 1601431967390,
+                    "source": "CRM_UI",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "hubspot_owner_id",
+                            "value": "51144609",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "CRM_UI",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "annualrevenue": {
+                    "value": "1000000000",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "annualrevenue",
+                            "value": "1000000000",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "hs_created_by_user_id": {
+                    "value": "12001647",
+                    "timestamp": 1601431967390,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_created_by_user_id",
+                            "value": "12001647",
+                            "timestamp": 1601431967390,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "founded_year": {
+                    "value": "1980",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "founded_year",
+                            "value": "1980",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "state": {
+                    "value": "GA",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "state",
+                            "value": "GA",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "hs_all_owner_ids": {
+                    "value": "51144609",
+                    "timestamp": 1601431967390,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_all_owner_ids",
+                            "value": "51144609",
+                            "timestamp": 1601431967390,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "linkedinbio": {
+                    "value": "CNN is an American news-based pay television channel owned by CNN Worldwide, a unit of the WarnerMedia News & Sports division of AT&T's WarnerMedia.",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "linkedinbio",
+                            "value": "CNN is an American news-based pay television channel owned by CNN Worldwide, a unit of the WarnerMedia News & Sports division of AT&T's WarnerMedia.",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "zip": {
+                    "value": "30303",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "zip",
+                            "value": "30303",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "website": {
+                    "value": "cnn.com",
+                    "timestamp": 1601431967390,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "website",
+                            "value": "cnn.com",
+                            "timestamp": 1601431967390,
+                            "source": "CALCULATED",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "address": {
+                    "value": "ONE CNN CENTER",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "address",
+                            "value": "ONE CNN CENTER",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "hs_user_ids_of_all_owners": {
+                    "value": "12001647",
+                    "timestamp": 1601431967390,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_user_ids_of_all_owners",
+                            "value": "12001647",
+                            "timestamp": 1601431967390,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "twitterhandle": {
+                    "value": "CNN",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "twitterhandle",
+                            "value": "CNN",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "hs_target_account_probability": {
+                    "value": "0.4076234698295593",
+                    "timestamp": 1601432030993,
+                    "source": "SALES",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_target_account_probability",
+                            "value": "0.4076234698295593",
+                            "timestamp": 1601432030993,
+                            "source": "SALES",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_lastmodifieddate": {
+                    "value": "1601432030993",
+                    "timestamp": 1601432030993,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_lastmodifieddate",
+                            "value": "1601432030993",
+                            "timestamp": 1601432030993,
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hubspot_owner_assigneddate": {
+                    "value": "1601431967390",
+                    "timestamp": 1601431967390,
+                    "source": "CRM_UI",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "hubspot_owner_assigneddate",
+                            "value": "1601431967390",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "CRM_UI",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "phone": {
+                    "value": "404-878-2276",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "phone",
+                            "value": "404-878-2276",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "domain": {
+                    "value": "cnn.com",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "domain",
+                            "value": "cnn.com",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "hs_num_child_companies": {
+                    "value": "0",
+                    "timestamp": 1601432029397,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "hs_num_child_companies",
+                            "value": "0",
+                            "timestamp": 1601432029397,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_object_id": {
+                    "value": "4549557237",
+                    "timestamp": 1601431967390,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_object_id",
+                            "value": "4549557237",
+                            "timestamp": 1601431967390,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "is_public": {
+                    "value": "false",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "is_public",
+                            "value": "false",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "name": {
+                    "value": "CNN",
+                    "timestamp": 1601431967390,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "name",
+                            "value": "CNN",
+                            "timestamp": 1601431967390,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                },
+                "hs_updated_by_user_id": {
+                    "value": "12001647",
+                    "timestamp": 1601431967390,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_updated_by_user_id",
+                            "value": "12001647",
+                            "timestamp": 1601431967390,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "b72dbeef-44dc-4d2f-baa3-1d683a5edc7f"
+                        }
+                    ]
+                }
+            },
+            "additionalDomains": [],
+            "stateChanges": [],
+            "mergeAudits": []
+        },
+        {
+            "portalId": 8467786,
+            "companyId": 4548100430,
+            "isDeleted": false,
+            "properties": {
+                "country": {
+                    "value": "United States",
+                    "timestamp": 1601396303044,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "country",
+                            "value": "United States",
+                            "timestamp": 1601396303044,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "city": {
+                    "value": "Cambridge",
+                    "timestamp": 1601396302832,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "city",
+                            "value": "Cambridge",
+                            "timestamp": 1601396302832,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "4690e3d8-5a03-46b0-9a70-634af9106689"
+                        }
+                    ]
+                },
+                "num_associated_contacts": {
+                    "value": "0",
+                    "timestamp": 1601396314631,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "num_associated_contacts",
+                            "value": "0",
+                            "timestamp": 1601396314631,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "timezone": {
+                    "value": "America/New_York",
+                    "timestamp": 1601396303044,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "timezone",
+                            "value": "America/New_York",
+                            "timestamp": 1601396303044,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "facebook_company_page": {
+                    "value": "https://facebook.com/hubspot",
+                    "timestamp": 1601396303044,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "facebook_company_page",
+                            "value": "https://facebook.com/hubspot",
+                            "timestamp": 1601396303044,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "createdate": {
+                    "value": "1601396302832",
+                    "timestamp": 1601396302832,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "createdate",
+                            "value": "1601396302832",
+                            "timestamp": 1601396302832,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "4690e3d8-5a03-46b0-9a70-634af9106689"
+                        }
+                    ]
+                },
+                "description": {
+                    "value": "The world’s leading inbound marketing and sales platform. Since 2006, HubSpot has been on a mission to make the world more inbound. Today, 31,000+ customers in more than 90 countries use HubSpot’s software, services, and support to transform the way th...",
+                    "timestamp": 1601396303044,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "description",
+                            "value": "The world’s leading inbound marketing and sales platform. Since 2006, HubSpot has been on a mission to make the world more inbound. Today, 31,000+ customers in more than 90 countries use HubSpot’s software, services, and support to transform the way th...",
+                            "timestamp": 1601396303044,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "industry": {
+                    "value": "Technology",
+                    "timestamp": 1601396302832,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "industry",
+                            "value": "Technology",
+                            "timestamp": 1601396302832,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "4690e3d8-5a03-46b0-9a70-634af9106689"
+                        }
+                    ]
+                },
+                "web_technologies": {
+                    "value": "segment;google_tag_manager;facebook_connect;cloud_flare;google_analytics;twitter_button;piwik;google_apps;adroll;hubspot;facebook_like_button;vidyard",
+                    "timestamp": 1601554688724,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "web_technologies",
+                            "value": "segment;google_tag_manager;facebook_connect;cloud_flare;google_analytics;twitter_button;piwik;google_apps;adroll;hubspot;facebook_like_button;vidyard",
+                            "timestamp": 1601554688724,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "numberofemployees": {
+                    "value": "",
+                    "timestamp": 1601554688724,
+                    "source": "BIDEN",
+                    "sourceId": "companies-biden",
+                    "versions": [
+                        {
+                            "name": "numberofemployees",
+                            "value": "",
+                            "timestamp": 1601554688724,
+                            "sourceId": "companies-biden",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "linkedin_company_page": {
+                    "value": "",
+                    "timestamp": 1601554688724,
+                    "source": "BIDEN",
+                    "sourceId": "companies-biden",
+                    "versions": [
+                        {
+                            "name": "linkedin_company_page",
+                            "value": "",
+                            "timestamp": 1601554688724,
+                            "sourceId": "companies-biden",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "founded_year": {
+                    "value": "2006",
+                    "timestamp": 1601396303044,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "founded_year",
+                            "value": "2006",
+                            "timestamp": 1601396303044,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "state": {
+                    "value": "Massachusetts",
+                    "timestamp": 1601396302832,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "state",
+                            "value": "Massachusetts",
+                            "timestamp": 1601396302832,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "4690e3d8-5a03-46b0-9a70-634af9106689"
+                        }
+                    ]
+                },
+                "linkedinbio": {
+                    "value": "The world’s leading inbound marketing and sales platform. Since 2006, HubSpot has been on a mission to make the world more inbound. Today, 31,000+ customers in more than 90 countries use HubSpot’s software, services, and support to transform the way th...",
+                    "timestamp": 1601396303044,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "linkedinbio",
+                            "value": "The world’s leading inbound marketing and sales platform. Since 2006, HubSpot has been on a mission to make the world more inbound. Today, 31,000+ customers in more than 90 countries use HubSpot’s software, services, and support to transform the way th...",
+                            "timestamp": 1601396303044,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "zip": {
+                    "value": "62515",
+                    "timestamp": 1601396303044,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "zip",
+                            "value": "62515",
+                            "timestamp": 1601396303044,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "website": {
+                    "value": "biglytics.net",
+                    "timestamp": 1601396302832,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "website",
+                            "value": "biglytics.net",
+                            "timestamp": 1601396302832,
+                            "source": "CALCULATED",
+                            "sourceVid": [],
+                            "requestId": "4690e3d8-5a03-46b0-9a70-634af9106689"
+                        }
+                    ]
+                },
+                "address": {
+                    "value": "25 First Street",
+                    "timestamp": 1601554688724,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "address",
+                            "value": "25 First Street",
+                            "timestamp": 1601554688724,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "twitterhandle": {
+                    "value": "HubSpot",
+                    "timestamp": 1601396303044,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "twitterhandle",
+                            "value": "HubSpot",
+                            "timestamp": 1601396303044,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_target_account_probability": {
+                    "value": "0.4076234698295593",
+                    "timestamp": 1601396316470,
+                    "source": "SALES",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_target_account_probability",
+                            "value": "0.4076234698295593",
+                            "timestamp": 1601396316470,
+                            "source": "SALES",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_lastmodifieddate": {
+                    "value": "1601554688724",
+                    "timestamp": 1601554688724,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_lastmodifieddate",
+                            "value": "1601554688724",
+                            "timestamp": 1601554688724,
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "phone": {
+                    "value": "(877) 929-0687",
+                    "timestamp": 1601396302832,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "phone",
+                            "value": "(877) 929-0687",
+                            "timestamp": 1601396302832,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "4690e3d8-5a03-46b0-9a70-634af9106689"
+                        }
+                    ]
+                },
+                "domain": {
+                    "value": "biglytics.net",
+                    "timestamp": 1601396302832,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "domain",
+                            "value": "biglytics.net",
+                            "timestamp": 1601396302832,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "4690e3d8-5a03-46b0-9a70-634af9106689"
+                        }
+                    ]
+                },
+                "hs_num_child_companies": {
+                    "value": "0",
+                    "timestamp": 1601396314631,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "hs_num_child_companies",
+                            "value": "0",
+                            "timestamp": 1601396314631,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_object_id": {
+                    "value": "4548100430",
+                    "timestamp": 1601396302832,
+                    "source": "API",
+                    "sourceId": "PublicObjectResource",
+                    "versions": [
+                        {
+                            "name": "hs_object_id",
+                            "value": "4548100430",
+                            "timestamp": 1601396302832,
+                            "sourceId": "PublicObjectResource",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "4690e3d8-5a03-46b0-9a70-634af9106689"
+                        }
+                    ]
+                },
+                "is_public": {
+                    "value": "false",
+                    "timestamp": 1601396303044,
+                    "source": "BIDEN",
+                    "sourceId": "BidenPropertyMappings",
+                    "versions": [
+                        {
+                            "name": "is_public",
+                            "value": "false",
+                            "timestamp": 1601396303044,
+                            "sourceId": "BidenPropertyMappings",
+                            "source": "BIDEN",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "name": {
+                    "value": "Biglytics",
+                    "timestamp": 1601396302832,
+                    "source": "API",
+                    "sourceId": "Public Object Api",
+                    "versions": [
+                        {
+                            "name": "name",
+                            "value": "Biglytics",
+                            "timestamp": 1601396302832,
+                            "sourceId": "Public Object Api",
+                            "source": "API",
+                            "sourceVid": [],
+                            "requestId": "4690e3d8-5a03-46b0-9a70-634af9106689"
+                        }
+                    ]
+                }
+            },
+            "additionalDomains": [],
+            "stateChanges": [],
+            "mergeAudits": []
+        },
+        {
+            "portalId": 8467786,
+            "companyId": 4542708975,
+            "isDeleted": false,
+            "properties": {
+                "country": {
+                    "value": "United States",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "country",
+                            "value": "United States",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "city": {
+                    "value": "Harleysville",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "city",
+                            "value": "Harleysville",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "num_associated_contacts": {
+                    "value": "0",
+                    "timestamp": 1601320432678,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "num_associated_contacts",
+                            "value": "0",
+                            "timestamp": 1601320432678,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "timezone": {
+                    "value": "America/New_York",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "timezone",
+                            "value": "America/New_York",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "facebook_company_page": {
+                    "value": "https://facebook.com/sportsunlimited",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "facebook_company_page",
+                            "value": "https://facebook.com/sportsunlimited",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "createdate": {
+                    "value": "1601320420364",
+                    "timestamp": 1601320420364,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "createdate",
+                            "value": "1601320420364",
+                            "timestamp": 1601320420364,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "description": {
+                    "value": "Shop Online at SportsUnlimited.com for sporting goods and equipment in football, baseball, field hockey, and more. Get Free Shipping over $49 and Same Day Shipping on In-Stock Items before 3pm ET Weekdays. All of the sports gear you need, right here on...",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "description",
+                            "value": "Shop Online at SportsUnlimited.com for sporting goods and equipment in football, baseball, field hockey, and more. Get Free Shipping over $49 and Same Day Shipping on In-Stock Items before 3pm ET Weekdays. All of the sports gear you need, right here on...",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "industry": {
+                    "value": "RETAIL",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "industry",
+                            "value": "RETAIL",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "web_technologies": {
+                    "value": "trustpilot;facebook_advertiser;salesforce;apache;yahoo_stores;app_nexus;google_tag_manager;steel_house;bing_advertiser;google_analytics;google_apps;amazon__cloudfront;a_b__tasty;cloud_flare",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "web_technologies",
+                            "value": "trustpilot;facebook_advertiser;salesforce;apache;yahoo_stores;app_nexus;google_tag_manager;steel_house;bing_advertiser;google_analytics;google_apps;amazon__cloudfront;a_b__tasty;cloud_flare",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "numberofemployees": {
+                    "value": "200",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "numberofemployees",
+                            "value": "200",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "type": {
+                    "value": "PROSPECT",
+                    "timestamp": 1601320420364,
+                    "source": "CRM_UI",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "type",
+                            "value": "PROSPECT",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "CRM_UI",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "linkedin_company_page": {
+                    "value": "https://www.linkedin.com/company/sports-unlimited",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "linkedin_company_page",
+                            "value": "https://www.linkedin.com/company/sports-unlimited",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "hubspot_owner_id": {
+                    "value": "51144609",
+                    "timestamp": 1601320420364,
+                    "source": "CRM_UI",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "hubspot_owner_id",
+                            "value": "51144609",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "CRM_UI",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "annualrevenue": {
+                    "value": "10000000",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "annualrevenue",
+                            "value": "10000000",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "hs_created_by_user_id": {
+                    "value": "12001647",
+                    "timestamp": 1601320420364,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_created_by_user_id",
+                            "value": "12001647",
+                            "timestamp": 1601320420364,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "founded_year": {
+                    "value": "1983",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "founded_year",
+                            "value": "1983",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "state": {
+                    "value": "PA",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "state",
+                            "value": "PA",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "hs_all_owner_ids": {
+                    "value": "51144609",
+                    "timestamp": 1601320420364,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_all_owner_ids",
+                            "value": "51144609",
+                            "timestamp": 1601320420364,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "linkedinbio": {
+                    "value": "Shop Online at SportsUnlimited.com for sporting goods and equipment in football, baseball, field hockey, and more. Get Free Shipping over $49 and Same Day Shipping on In-Stock Items before 3pm ET Weekdays. All of the sports gear you need, right here on...",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "linkedinbio",
+                            "value": "Shop Online at SportsUnlimited.com for sporting goods and equipment in football, baseball, field hockey, and more. Get Free Shipping over $49 and Same Day Shipping on In-Stock Items before 3pm ET Weekdays. All of the sports gear you need, right here on...",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "zip": {
+                    "value": "19438",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "zip",
+                            "value": "19438",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "website": {
+                    "value": "sportsunlimited.com",
+                    "timestamp": 1601320420364,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "website",
+                            "value": "sportsunlimited.com",
+                            "timestamp": 1601320420364,
+                            "source": "CALCULATED",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "address": {
+                    "value": "346 Godshall Road",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "address",
+                            "value": "346 Godshall Road",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "hs_user_ids_of_all_owners": {
+                    "value": "12001647",
+                    "timestamp": 1601320420364,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_user_ids_of_all_owners",
+                            "value": "12001647",
+                            "timestamp": 1601320420364,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "twitterhandle": {
+                    "value": "SportsUnlimited",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "twitterhandle",
+                            "value": "SportsUnlimited",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "hs_target_account_probability": {
+                    "value": "0.4076234698295593",
+                    "timestamp": 1601320433637,
+                    "source": "SALES",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_target_account_probability",
+                            "value": "0.4076234698295593",
+                            "timestamp": 1601320433637,
+                            "source": "SALES",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_lastmodifieddate": {
+                    "value": "1601320481885",
+                    "timestamp": 1601320481885,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_lastmodifieddate",
+                            "value": "1601320481885",
+                            "timestamp": 1601320481885,
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hubspot_owner_assigneddate": {
+                    "value": "1601320420364",
+                    "timestamp": 1601320420364,
+                    "source": "CRM_UI",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "hubspot_owner_assigneddate",
+                            "value": "1601320420364",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "CRM_UI",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "phone": {
+                    "value": "6109949690",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "phone",
+                            "value": "6109949690",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "domain": {
+                    "value": "sportsunlimited.com",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "domain",
+                            "value": "sportsunlimited.com",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "hs_num_child_companies": {
+                    "value": "0",
+                    "timestamp": 1601320481444,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "hs_num_child_companies",
+                            "value": "0",
+                            "timestamp": 1601320481444,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_object_id": {
+                    "value": "4542708975",
+                    "timestamp": 1601320420364,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_object_id",
+                            "value": "4542708975",
+                            "timestamp": 1601320420364,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "is_public": {
+                    "value": "false",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "is_public",
+                            "value": "false",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "name": {
+                    "value": "Sports Unlimited",
+                    "timestamp": 1601320420364,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "name",
+                            "value": "Sports Unlimited",
+                            "timestamp": 1601320420364,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                },
+                "hs_updated_by_user_id": {
+                    "value": "12001647",
+                    "timestamp": 1601320420364,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_updated_by_user_id",
+                            "value": "12001647",
+                            "timestamp": 1601320420364,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "da9a6f86-7a04-4aa1-8eb5-f46988b1fea7"
+                        }
+                    ]
+                }
+            },
+            "additionalDomains": [],
+            "stateChanges": [],
+            "mergeAudits": []
+        },
+        {
+            "portalId": 8467786,
+            "companyId": 4542603754,
+            "isDeleted": false,
+            "properties": {
+                "country": {
+                    "value": "United States",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "country",
+                            "value": "United States",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "city": {
+                    "value": "San Francisco",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "city",
+                            "value": "San Francisco",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "num_associated_contacts": {
+                    "value": "0",
+                    "timestamp": 1601318158225,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "num_associated_contacts",
+                            "value": "0",
+                            "timestamp": 1601318158225,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "timezone": {
+                    "value": "America/Los_Angeles",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "timezone",
+                            "value": "America/Los_Angeles",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "facebook_company_page": {
+                    "value": "https://www.facebook.com/MuleSoft",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "facebook_company_page",
+                            "value": "https://www.facebook.com/MuleSoft",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "createdate": {
+                    "value": "1601318093816",
+                    "timestamp": 1601318093816,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "createdate",
+                            "value": "1601318093816",
+                            "timestamp": 1601318093816,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "description": {
+                    "value": "MuleSoft provides the most widely used integration platform (Mule ESB & CloudHub) for connecting SaaS & enterprise applications in the cloud and on-premise.",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "description",
+                            "value": "MuleSoft provides the most widely used integration platform (Mule ESB & CloudHub) for connecting SaaS & enterprise applications in the cloud and on-premise.",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "industry": {
+                    "value": "COMPUTER_SOFTWARE",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "industry",
+                            "value": "COMPUTER_SOFTWARE",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "total_money_raised": {
+                    "value": "259M",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "total_money_raised",
+                            "value": "259M",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "web_technologies": {
+                    "value": "new_relic;aws_route_53;mailchimp;nginx;google_tag_manager;add_to_any;optimizely;vidyard;facebook_advertiser;drupal;marketo;taboola_ads;google_analytics;google_apps;salesforce_salesforce_com;amazon__cloudfront;max_c_d_n;cloud_flare;kiss_metrics;varnish",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "web_technologies",
+                            "value": "new_relic;aws_route_53;mailchimp;nginx;google_tag_manager;add_to_any;optimizely;vidyard;facebook_advertiser;drupal;marketo;taboola_ads;google_analytics;google_apps;salesforce_salesforce_com;amazon__cloudfront;max_c_d_n;cloud_flare;kiss_metrics;varnish",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "numberofemployees": {
+                    "value": "1000",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "numberofemployees",
+                            "value": "1000",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "type": {
+                    "value": "PROSPECT",
+                    "timestamp": 1601318093816,
+                    "source": "CRM_UI",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "type",
+                            "value": "PROSPECT",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "CRM_UI",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "linkedin_company_page": {
+                    "value": "https://www.linkedin.com/company/www.mulesoft.com",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "linkedin_company_page",
+                            "value": "https://www.linkedin.com/company/www.mulesoft.com",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "hubspot_owner_id": {
+                    "value": "51144609",
+                    "timestamp": 1601318093816,
+                    "source": "CRM_UI",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "hubspot_owner_id",
+                            "value": "51144609",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "CRM_UI",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "annualrevenue": {
+                    "value": "250000000",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "annualrevenue",
+                            "value": "250000000",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "hs_created_by_user_id": {
+                    "value": "12001647",
+                    "timestamp": 1601318093816,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_created_by_user_id",
+                            "value": "12001647",
+                            "timestamp": 1601318093816,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "founded_year": {
+                    "value": "2006",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "founded_year",
+                            "value": "2006",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "state": {
+                    "value": "CA",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "state",
+                            "value": "CA",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "hs_all_owner_ids": {
+                    "value": "51144609",
+                    "timestamp": 1601318093816,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_all_owner_ids",
+                            "value": "51144609",
+                            "timestamp": 1601318093816,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "linkedinbio": {
+                    "value": "MuleSoft provides the most widely used integration platform (Mule ESB & CloudHub) for connecting SaaS & enterprise applications in the cloud and on-premise.",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "linkedinbio",
+                            "value": "MuleSoft provides the most widely used integration platform (Mule ESB & CloudHub) for connecting SaaS & enterprise applications in the cloud and on-premise.",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "zip": {
+                    "value": "94105",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "zip",
+                            "value": "94105",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "website": {
+                    "value": "mulesoft.com",
+                    "timestamp": 1601318093816,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "website",
+                            "value": "mulesoft.com",
+                            "timestamp": 1601318093816,
+                            "source": "CALCULATED",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "address": {
+                    "value": "77 Geary Street",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "address",
+                            "value": "77 Geary Street",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "address2": {
+                    "value": "FL 400",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "address2",
+                            "value": "FL 400",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "hs_user_ids_of_all_owners": {
+                    "value": "12001647",
+                    "timestamp": 1601318093816,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_user_ids_of_all_owners",
+                            "value": "12001647",
+                            "timestamp": 1601318093816,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "twitterhandle": {
+                    "value": "MuleSoft",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "twitterhandle",
+                            "value": "MuleSoft",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "hs_target_account_probability": {
+                    "value": "0.4076234698295593",
+                    "timestamp": 1601318160449,
+                    "source": "SALES",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_target_account_probability",
+                            "value": "0.4076234698295593",
+                            "timestamp": 1601318160449,
+                            "source": "SALES",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_lastmodifieddate": {
+                    "value": "1601318160449",
+                    "timestamp": 1601318160449,
+                    "source": "CALCULATED",
+                    "sourceId": null,
+                    "versions": [
+                        {
+                            "name": "hs_lastmodifieddate",
+                            "value": "1601318160449",
+                            "timestamp": 1601318160449,
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hubspot_owner_assigneddate": {
+                    "value": "1601318093816",
+                    "timestamp": 1601318093816,
+                    "source": "CRM_UI",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "hubspot_owner_assigneddate",
+                            "value": "1601318093816",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "CRM_UI",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "phone": {
+                    "value": "+1 415-229-2009",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "phone",
+                            "value": "+1 415-229-2009",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "domain": {
+                    "value": "mulesoft.com",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "domain",
+                            "value": "mulesoft.com",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "hs_num_child_companies": {
+                    "value": "0",
+                    "timestamp": 1601318158225,
+                    "source": "CALCULATED",
+                    "sourceId": "RollupProperties",
+                    "versions": [
+                        {
+                            "name": "hs_num_child_companies",
+                            "value": "0",
+                            "timestamp": 1601318158225,
+                            "sourceId": "RollupProperties",
+                            "source": "CALCULATED",
+                            "sourceVid": []
+                        }
+                    ]
+                },
+                "hs_object_id": {
+                    "value": "4542603754",
+                    "timestamp": 1601318093816,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_object_id",
+                            "value": "4542603754",
+                            "timestamp": 1601318093816,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "is_public": {
+                    "value": "false",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "is_public",
+                            "value": "false",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "name": {
+                    "value": "MuleSoft",
+                    "timestamp": 1601318093816,
+                    "source": "BIDEN",
+                    "sourceId": "bryan.higgins@mulesoft.com",
+                    "versions": [
+                        {
+                            "name": "name",
+                            "value": "MuleSoft",
+                            "timestamp": 1601318093816,
+                            "sourceId": "bryan.higgins@mulesoft.com",
+                            "source": "BIDEN",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                },
+                "hs_updated_by_user_id": {
+                    "value": "12001647",
+                    "timestamp": 1601318093816,
+                    "source": "CONTACTS",
+                    "sourceId": "CRM_UI",
+                    "versions": [
+                        {
+                            "name": "hs_updated_by_user_id",
+                            "value": "12001647",
+                            "timestamp": 1601318093816,
+                            "sourceId": "CRM_UI",
+                            "source": "CONTACTS",
+                            "sourceVid": [],
+                            "requestId": "edd554b2-9efb-4acc-8223-19e0aff78204"
+                        }
+                    ]
+                }
+            },
+            "additionalDomains": [],
+            "stateChanges": [],
+            "mergeAudits": []
+        }
+    ],
+    "hasMore": false,
+    "offset": 7,
+    "total": 7
+}
